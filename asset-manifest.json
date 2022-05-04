@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c974bebf.css",
+    "main.js": "/static/js/main.3e40ac90.js",
+    "static/js/787.284a3ba0.chunk.js": "/static/js/787.284a3ba0.chunk.js",
+    "static/media/cryptt.png": "/static/media/cryptt.2c4270960974e1312958.png",
+    "index.html": "/index.html",
+    "main.c974bebf.css.map": "/static/css/main.c974bebf.css.map",
+    "main.3e40ac90.js.map": "/static/js/main.3e40ac90.js.map",
+    "787.284a3ba0.chunk.js.map": "/static/js/787.284a3ba0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c974bebf.css",
+    "static/js/main.3e40ac90.js"
+  ]
+}
