@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.c974bebf.css",
-    "main.js": "/static/js/main.3e40ac90.js",
-    "static/js/787.284a3ba0.chunk.js": "/static/js/787.284a3ba0.chunk.js",
-    "static/media/cryptt.png": "/static/media/cryptt.2c4270960974e1312958.png",
+    "main.css": "/static/css/main.cd4d451e.css",
+    "main.js": "/static/js/main.913a384c.js",
+    "static/media/yencrypto.apk": "/static/media/yencrypto.1a2d8e62a8eff5b85ec3.apk",
+    "static/media/logo.png": "/static/media/logo.7afbdc00f7f1303d4139.png",
+    "static/media/log1o.png": "/static/media/log1o.272ab186db6e36cd2c5a.png",
     "index.html": "/index.html",
-    "main.c974bebf.css.map": "/static/css/main.c974bebf.css.map",
-    "main.3e40ac90.js.map": "/static/js/main.3e40ac90.js.map",
-    "787.284a3ba0.chunk.js.map": "/static/js/787.284a3ba0.chunk.js.map"
+    "main.cd4d451e.css.map": "/static/css/main.cd4d451e.css.map",
+    "main.913a384c.js.map": "/static/js/main.913a384c.js.map"
   },
   "entrypoints": [
-    "static/css/main.c974bebf.css",
-    "static/js/main.3e40ac90.js"
+    "static/css/main.cd4d451e.css",
+    "static/js/main.913a384c.js"
   ]
 }
